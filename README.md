@@ -44,12 +44,12 @@ vpn-mpls-multi-site/
 
 *(add screenshots for each test)*
 
-- [ ] Inter-VLAN routing across all VLANs
-- [ ] HSRP/VRRP failover (gateway shutdown → traffic keeps flowing)
-- [ ] EtherChannel up (LACP/PAgP)
-- [ ] MPLS VPN tunnels established between all sites
-- [ ] AAA authentication via RADIUS server
-- [ ] SNMPv3 polling/traps received by the monitoring station
+- [X] Inter-VLAN routing across all VLANs
+- [X] HSRP/VRRP failover (gateway shutdown → traffic keeps flowing)
+- [X] EtherChannel up (LACP/PAgP)
+- [X] MPLS VPN tunnels established between all sites
+- [X] AAA authentication via RADIUS server
+- [X] SNMPv3 polling/traps received by the monitoring station
 
 ## 👤 Author
 
