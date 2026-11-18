@@ -1,0 +1,2 @@
+Copier ici la running-config de chaque équipement : R1.cfg, SW-CORE1.cfg, etc.
+Ces fichiers servent de preuve et permettent à un recruteur de vérifier le travail.
